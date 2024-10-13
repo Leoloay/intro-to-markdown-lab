@@ -8,11 +8,11 @@ const functionName = (params) => {
 // code to be executed
 }
 
-- **const:** const should be used whenever a function expression is assigned to a variable.
-- **The function name:** The name you choose for the function.
-- **Parameters:** Optional comma separated parameters. This is the data passed into the function. If there are no parameters, the () is still required.
-- **The arrow syntax:** Indicates that this will be a function.
-- **The body:** The statements that make up the function itself. Surrounded by curly braces.
+> - **const:** const should be used whenever a function expression is assigned to a variable.
+> - **The function name:** The name you choose for the function.
+> - **Parameters:** Optional comma separated parameters. This is the data passed into the function. If there are no parameters, the () is still required.
+> - **The arrow syntax:** Indicates that this will be a function.
+> - **The body:** The statements that make up the function itself. Surrounded by curly braces.
 
 **_Example:_**
 
@@ -47,5 +47,6 @@ const total = addNums(2, 4);
 console.log(total) // Expected value: 6
 ```
 
-For more information on functions and how they are used in JS, check out the MDN docs.
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+For more information on functions and how they are used in JS, check out the **_[MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)._**
+
+![We ARE GEEKS](https://images.unsplash.com/photo-1726925793996-8e478b4f99ee?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
